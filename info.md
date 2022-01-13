@@ -16,3 +16,6 @@ git config --global user.name "Your Name"
 1. git status 
 2. git diff
 3. git log
+
+## Работа с коммитами 
+Для того что бы перейти к определенному коммиту можно использовать комманду git checkout код коммита
