@@ -22,4 +22,3 @@ git config --global user.name "Your Name"
 
 Что бы вернуться к актулальному состоянию нужно набрать git checkout master
 
-esfse
