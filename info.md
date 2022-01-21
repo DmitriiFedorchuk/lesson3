@@ -55,5 +55,9 @@ git checkout branch_name
 ## Справка 
 Что бы вызвать справку по команде, нужно дописать к команде которую хотим посмотреть тег --help
 
-Примеры git add --help
-git branch --help
+Примеры:
+
+> git branch --help
+
+> git add --help
+
