@@ -42,3 +42,10 @@ git checkout branch_name
 
 
 
+git log --graph
+
+## Удаление веток
+Для того что бы удалить ветку с именем branch_name 
+пишем комманду git branch -d branch_name
+
+Удаление с игнорированием ошибок git branch -D branch_name
