@@ -22,3 +22,18 @@ git config --global user.name "Your Name"
 
 Что бы вернуться к актулальному состоянию нужно набрать git checkout master
 
+![error](qwer.jpeg)
+
+
+
+
+## Ветки в git
+
+Что бы посмотреть все ветки нужно ввести команду git branch
+
+Для создания новой ветки команда git branch branch_name
+
+Для того что бы перейти на необходимую ветку 
+git checkout branch_name
+
+git log --graph
