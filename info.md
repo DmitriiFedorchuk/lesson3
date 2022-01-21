@@ -36,4 +36,9 @@ git config --global user.name "Your Name"
 Для того что бы перейти на необходимую ветку 
 git checkout branch_name
 
-git log --graph
+## Слияние веток и решение конфликтов 
+
+Что бы слить информацию из ветки branch_name в текущую нужно дать команду git merge branch_name
+
+
+
